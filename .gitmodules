@@ -1,0 +1,3 @@
+[submodule "resources/tinyblog"]
+	path = resources/tinyblog
+	url = https://github.com/asrcpq/tinyblog.git
